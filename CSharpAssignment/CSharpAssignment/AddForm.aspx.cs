@@ -104,7 +104,7 @@ namespace CSharpAssignment
             }
             catch (Exception ex)
             {
-                String msg = ""+ex.Message;
+                String msg = "duplicated ID";
                 ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "Empty Fields", "alert('"+msg+"')", true);
                 return;
             }

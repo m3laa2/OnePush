@@ -3,3 +3,8 @@ D:\onepush\CSharpAssignment\CSharpAssignment\bin\CSharpAssignment.pdb
 D:\onepush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csprojResolveAssemblyReference.cache
 D:\onepush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.dll
 D:\onepush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.pdb
+D:\Github\OnePush\CSharpAssignment\CSharpAssignment\bin\CSharpAssignment.dll
+D:\Github\OnePush\CSharpAssignment\CSharpAssignment\bin\CSharpAssignment.pdb
+D:\Github\OnePush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csprojResolveAssemblyReference.cache
+D:\Github\OnePush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.dll
+D:\Github\OnePush\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.pdb
